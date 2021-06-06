@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trinidad-form/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/trinidad-form/static/js/main.72861ec6.chunk.js",
+    "main.js.map": "/trinidad-form/static/js/main.72861ec6.chunk.js.map",
+    "runtime-main.js": "/trinidad-form/static/js/runtime-main.e1887bc1.js",
+    "runtime-main.js.map": "/trinidad-form/static/js/runtime-main.e1887bc1.js.map",
+    "static/js/2.e1f8078e.chunk.js": "/trinidad-form/static/js/2.e1f8078e.chunk.js",
+    "static/js/2.e1f8078e.chunk.js.map": "/trinidad-form/static/js/2.e1f8078e.chunk.js.map",
+    "static/js/3.80643a40.chunk.js": "/trinidad-form/static/js/3.80643a40.chunk.js",
+    "static/js/3.80643a40.chunk.js.map": "/trinidad-form/static/js/3.80643a40.chunk.js.map",
+    "index.html": "/trinidad-form/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/trinidad-form/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e1f8078e.chunk.js.LICENSE.txt": "/trinidad-form/static/js/2.e1f8078e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/trinidad-form/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1887bc1.js",
+    "static/js/2.e1f8078e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.72861ec6.chunk.js"
+  ]
+}
